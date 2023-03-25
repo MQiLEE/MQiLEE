@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning application development
 - ⚡ In my free time, I like to read novel.
 - 💬 Ask me anything that you are interested about me
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-lee-ming-qi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lee-ming-qi-86667b211) 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-leemingqi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lee-ming-qi-86667b211) 
 
 ---
 
