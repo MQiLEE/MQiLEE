@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ---
 ### :woman_technologist: About Me :
+<!--
 <img align="right" width="30%" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+-->
 
 - 👯 I’m currently study at University Technology Malaysia
 - 🌱 I’m currently learning application development
