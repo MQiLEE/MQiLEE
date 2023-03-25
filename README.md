@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 <img align="right" width="30%" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 📆 26/07/2000
 - 👯 I’m currently study at University Technology Malaysia
 - 🌱 I’m currently learning application development
 - ⚡ In my free time, I like to read novel.
 - 💬 Ask me anything that you are interested about me
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hongpeigeok-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hong-pei-geok-b2378a202) <a href="mailto:peigeok0726@gmail.com"><img src="https://img.shields.io/badge/peigeok0726@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-lee-ming-qi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lee-ming-qi-86667b211) 
 
 ---
 
@@ -53,4 +52,4 @@ Here are some ideas to get you started:
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peiyu00)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MQiLee)](https://git.io/streak-stats)
