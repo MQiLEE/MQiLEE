@@ -1,24 +1,3 @@
-<!--
-<p align="center">
-  <img src="" width="300" height="100">
-</p>
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
-
-
-**MQiLEE/MQiLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Ming Qi</h1>
 <h3 align="center">A passionate Data Engineering Student from Malaysia</h3>
 
@@ -38,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lee ming qi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lee ming qi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lee-ming-qi-86667b211" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lee ming qi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
