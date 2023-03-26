@@ -1,21 +1,19 @@
 <img src="https://github.com/MQiLEE/MQiLEE/blob/8c9958fe1e748fc6a7cd12db2f46c04a12d32627/lmq.png" alt = "Hi, I'm Ming Qi" width = "100%"/>
 
-<h1 align="center">Hi 👋, I'm Ming Qi</h1>
 <h3 align="center">A passionate Data Engineering Student from Malaysia</h3>
 
 
 
-- 🔭 I’m currently working on [project name](project link)
+🔭 I’m currently working on [Social media monitoring tool](https://github.com/drshahizan/special-topic-data-engineering/tree/main/project/proposal/Gadgeteen)
 
-- 🌱 I’m currently learning **MongoDB and Django**
+🌱 I’m currently learning **MongoDB and Django**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 💬 Ask me about **Data Analytics**
 
-- 💬 Ask me about **Python, Data**
+- ⚡ Fun fact **I love to sleep, except during assignments due**
 
-- 📄 Know about my experiences [resume link](resume link)
+<h3 align="left">All of my projects are available at:</h3>
 
-- ⚡ Fun fact **no fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
