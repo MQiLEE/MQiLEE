@@ -13,11 +13,17 @@
 - ⚡ Fun fact **I love to sleep, except during assignments due**
 
 <h3 align="left">All of my projects are available at:</h3>
+
 - 🏠 [Exploratory Data Analysis (EDA) on Real Estate Kuala Lumpur Malaysia](https://github.com/MQiLEE/Python_EDA/tree/main/Malaysia%20EDA/QnX)
+
 - 🌟 [Python Big Data EDA: Trump Vs Biden on Twitter](https://github.com/MQiLEE/Python-big-data/tree/main/Assignment%201/Qnx)
+
 - 🐼 [Alternatives to Pandas for Processing Large Dataset - cuDF](https://github.com/MQiLEE/Python-big-data/tree/main/Assignment%202a/SIX)
+
 - 🆚 [Pandas vs cuDF](https://github.com/MQiLEE/Python-big-data/tree/main/Assignment%202b/SIX)
+
 - 🚗 [Project: NYC Parking Ticket Analysis Using 3 Different Libraries](https://github.com/MQiLEE/Python-big-data/tree/main/Project/SIX)
+
 - 📔 [BukuKita Web Scraping with Scrapy](https://github.com/MQiLEE/python-web/tree/main/scrapy/SIX)
 
 <h3 align="left">Connect with me:</h3>
