@@ -1,19 +1,24 @@
 <img src="https://github.com/MQiLEE/MQiLEE/blob/8c9958fe1e748fc6a7cd12db2f46c04a12d32627/lmq.png" alt = "Hi, I'm Ming Qi" width = "100%"/>
 
-<h3 align="center">A passionate Data Engineering Student from Malaysia</h3>
+<h1 align="center">A passionate Data Engineering Student from Malaysia</h1>
 
 
 
-🔭 I’m currently working on [Social media monitoring tool](https://github.com/drshahizan/special-topic-data-engineering/tree/main/project/proposal/Gadgeteen)
+- 🔭 I’m currently working on [Social media monitoring tool](https://github.com/drshahizan/special-topic-data-engineering/tree/main/project/proposal/Gadgeteen)
 
-🌱 I’m currently learning **MongoDB and Django**
+- 🌱 I’m currently learning **MongoDB and Django**
 
 - 💬 Ask me about **Data Analytics**
 
 - ⚡ Fun fact **I love to sleep, except during assignments due**
 
 <h3 align="left">All of my projects are available at:</h3>
-
+- 🏠 [Exploratory Data Analysis (EDA) on Real Estate Kuala Lumpur Malaysia](https://github.com/MQiLEE/Python_EDA/tree/main/Malaysia%20EDA/QnX)
+- 🌟 [Python Big Data EDA: Trump Vs Biden on Twitter](https://github.com/MQiLEE/Python-big-data/tree/main/Assignment%201/Qnx)
+- 🐼 [Alternatives to Pandas for Processing Large Dataset - cuDF](https://github.com/MQiLEE/Python-big-data/tree/main/Assignment%202a/SIX)
+- 🆚 [Pandas vs cuDF](https://github.com/MQiLEE/Python-big-data/tree/main/Assignment%202b/SIX)
+- 🚗 [Project: NYC Parking Ticket Analysis Using 3 Different Libraries](https://github.com/MQiLEE/Python-big-data/tree/main/Project/SIX)
+- 📔 [BukuKita Web Scraping with Scrapy](https://github.com/MQiLEE/python-web/tree/main/scrapy/SIX)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
